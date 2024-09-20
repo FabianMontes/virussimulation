@@ -4,6 +4,8 @@ Proyecto de taller de inteligencia artifical y minirobots.
 
 Programado en Netlogo.
 
+[https://fabianmontes.github.io/virussimulation/]
+
 Busca emular el sistema de contagio deun virus para varios tipos de pacientes a travez del tiempo, una simulacion que ejemplifica los automatas celulares y sus reglas, las cuales se definieron en el documento 2.7
 
 para correr primero oprimir setup (reinicia y prepara la imagen) y luego go o step (solo avanzara un tick en step)
