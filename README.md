@@ -1,4 +1,4 @@
-# virussimulation
+# Virus Simulation
 
 Proyecto de taller de inteligencia artifical y minirobots.
 
